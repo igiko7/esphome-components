@@ -17,6 +17,8 @@
 
 #include"meters_common_implementation.h"
 #include"manufacturer_specificities.h"
+#include<algorithm>
+#include<cctype>
 
 namespace
 {
